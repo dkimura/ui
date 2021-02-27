@@ -11,4 +11,4 @@ export const Basic: React.VFC<Args> = ({ children }) => (
   <Button>{children}</Button>
 )
 
-export default { title: 'Button', args: { children: 'hello' } } as Meta<Args>
+export default { title: 'Button', args: { children: 'Hello' } } as Meta<Args>
