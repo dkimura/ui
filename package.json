@@ -6,6 +6,7 @@
   "version": "0.0.0",
   "scripts": {
     "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic --project-token eb641a1bf203",
     "lint": "eslint . --cache",
     "storybook": "start-storybook -p 6006"
   },
